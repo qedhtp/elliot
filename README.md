@@ -1,4 +1,5 @@
->Under development...    
+1. A collect of scritp for Bug Hunter or CTF
+2. Almost every/each vulnerablities type
+3. Bash or python
 
-
-some small script
+I hope you like.
